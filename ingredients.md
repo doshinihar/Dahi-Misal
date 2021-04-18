@@ -5,8 +5,8 @@
  
 Measurement | Item | Process 
 --------------- | -------------------- | --------------------
- 2 Medium sized | Onions | ____________
- 1 Bowl | Tomato Pury | Finely chopped
+ 2 Medium sized | Onions | Finely chopped
+ 1 Bowl | Tomato Pury | ____________
  1 Bowl | Sprouted Moth Beans | Boiled
  2 Table Spoon | oil | ____________
  1 Tea Spoon | Black Mustard Seeds  | ____________
