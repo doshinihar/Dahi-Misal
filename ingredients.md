@@ -2,4 +2,4 @@
 
 Measurement | Item
 --------------- | --------------------
-1 | Onions | 2 Medium sized | Finely chopped
+ 2 Onions Medium sized |   Finely chopped
