@@ -37,3 +37,20 @@ Measurement | Item | Process
  As Per Taste | Salt | ____________
  As Per Taste | Sugar | ____________
  
+ 
+ 
+ 
+ <h2>Other Ingredients</h2>
+ 
+ 
+  Measurement | Item | Process
+--------------- | --------------- | --------------------
+ 2 Bowl | Farsan | ____________
+ 1 Bowl | Sev | ____________
+ 1 Packet | Bread or Pav | ____________
+ 2 Medium sized | Onions | Finely chopped
+ 2 Large sized | Tomatoes | Finely chopped
+ 1 Bowl | Curd | ____________
+ For Garnishing | Corrinder | ____________
+ 
+ Let's make it !!!
