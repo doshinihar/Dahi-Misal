@@ -1,5 +1,5 @@
-<h1>For making Dahi Misal you will require the following items</h2>
+<h1>For making Dahi Misal you will require the following items</h1>
 
-<h4>Measurement | Item</h4>
+<h2>Measurement | Item</h2>
 --------------- | --------------------
 
