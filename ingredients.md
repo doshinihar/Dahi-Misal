@@ -5,7 +5,7 @@
  
 Measurement | Item | Process 
 --------------- | -------------------- | --------------------
- 2 Medium sized | Onions | Finely chopped
+ 2 Medium sized | Onions | ____________
  1 Bowl | Tomato Pury | Finely chopped
  1 Bowl | Sprouted Moth Beans | Boiled
  2 Table Spoon | oil | ____________
