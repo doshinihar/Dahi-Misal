@@ -2,7 +2,7 @@
  
 <h2> For Gravy</h2> 
 Measurement | Item | Process
---------------- | --------------- | ---------------
+--------------- | -------------------- | ----------------
  2 Medium sized | Onions | Finely chopped
  2 Large sized | Tomatoes | Finely chopped
  1 bowl | Sprouted Moth Beans | Boiled
@@ -19,7 +19,7 @@ Measurement | Item | Process
  
  <h2> For Poha</h2>
  Measurement | Item | Process
---------------- | --------------- | ---------------
+--------------- |--------------- | --------------------
  1 bowl | Rice Flakes | Soaked in Water
  5-6 | Green Chilly | finely Chopped
  2 Tea Spoon | Oil | ____________
