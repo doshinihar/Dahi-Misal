@@ -6,8 +6,8 @@
 Measurement | Item | Process 
 --------------- | -------------------- | --------------------
  2 Medium sized | Onions | Finely chopped
- 1 bowl | Tomato Pury | Finely chopped
- 1 bowl | Sprouted Moth Beans | Boiled
+ 1 Bowl | Tomato Pury | Finely chopped
+ 1 Bowl | Sprouted Moth Beans | Boiled
  2 Table Spoon | oil | ____________
  1 Tea Spoon | Black Mustard Seeds  | ____________
  1 Tea Spoon | Cummin Seeds  | ____________
@@ -26,7 +26,7 @@ Measurement | Item | Process
  
  Measurement | Item | Process
 --------------- | --------------- | --------------------
- 1 bowl | Rice Flakes | Soaked in Water
+ 1 Bowl | Rice Flakes | Soaked in Water
  5-6 | Green Chilly | finely Chopped
  2 Tea Spoon | Oil | ____________
  1 Tea Spoon | Black Mustard Seeds  | ____________
