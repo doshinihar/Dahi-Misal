@@ -34,6 +34,7 @@ Measurement | Item | Process
  1/2 Tea Spoon | Asafoetida| ____________
  1/2 Tea Spoon | Turmaric Powder | ____________
  5-6 | Curry Leaves | ____________
+ 1 Small sized | Lemon juice | ____________
  As Per Taste | Salt | ____________
  As Per Taste | Sugar | ____________
  
