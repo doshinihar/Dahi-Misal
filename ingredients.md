@@ -1,4 +1,4 @@
-<h1>Dahi Misal Ingrediants are.....</h2>
+<h1>For making Dahi Misal you will require the following items</h2>
 
 <h4>Measurement | Item</h4>
 --------------- | --------------------
