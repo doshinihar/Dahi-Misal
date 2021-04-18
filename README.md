@@ -2,4 +2,4 @@
 ## [Ingredients](ingredients.md)
 
 ## [Recipe](recipe.md)
-![Delicious!](dahi misal.jfif)
+![Yummy!](dahi misal.jfif)
