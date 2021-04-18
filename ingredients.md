@@ -19,7 +19,7 @@ Measurement | Item | Process
  
  <h2> For Poha</h2>
  Measurement | Item | Process
---------------- |--------------- | --------------------
+--------------- | --------------- | --------------------
  1 bowl | Rice Flakes | Soaked in Water
  5-6 | Green Chilly | finely Chopped
  2 Tea Spoon | Oil | ____________
