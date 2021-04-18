@@ -53,6 +53,4 @@ Measurement | Item | Process
  2 Large sized | Tomatoes | Finely chopped
  1 Bowl | Curd | ____________
  For Garnishing | Corrinder | ____________
- 1 cube | Chesse | ____________
- 
  Let's make it !!!
